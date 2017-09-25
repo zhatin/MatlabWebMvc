@@ -12,7 +12,7 @@
 <title>Matlab Web MVC Sample</title>
 </head>
 <body>
-	<p>${MyFigure1}</p>
-	<p>${MyFigure2}</p>
+	<p>${MyMatlabFigure1}</p>
+	<p>${MyMatlabFigure2}</p>
 </body>
 </html>
